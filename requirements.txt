@@ -1,0 +1,4 @@
+streamlit==1.1.0
+qrcode==7.3.1
+numpy==1.21.3
+Pillow==8.4.0
